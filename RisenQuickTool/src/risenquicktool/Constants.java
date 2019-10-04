@@ -10,5 +10,5 @@ package risenquicktool;
  * @author tguyer
  */
 public class Constants {
-    public static final String SECRETS_FILE = "secrets/secrets_file.json";
+    public static final String SECRETS_FILE = "secrets/secrets.json";
 }
