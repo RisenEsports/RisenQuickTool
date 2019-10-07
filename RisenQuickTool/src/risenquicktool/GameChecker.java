@@ -10,7 +10,9 @@ package risenquicktool;
  * @author tguyer
  */
 public class GameChecker {
-    public void 
+    public void GameChecker() {
+        
+    }
     
     
 }
